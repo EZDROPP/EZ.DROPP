@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ezdropp.github.io/EZ.DROPP/sitemap.xml
